@@ -4,8 +4,10 @@
 body {
   margin-top:20px;
   font-family: Osaka;
-  background-color: ghostwhite;
+  background-color: #002B54;
+  color: blue;
   color: inherit;
+  color: #FFE293;
 }
 
 h2, h3, h5 {
@@ -77,5 +79,5 @@ h1 {
 }
 
 .price {
-  color: orange;
+  color: yellow;
 }
